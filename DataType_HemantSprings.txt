@@ -1,0 +1,44 @@
+void a
+
+a=10
+
+function sub();
+void function sub()
+{
+	int c = a - b;
+		//return c;
+		
+		printf
+}
+
+data type:
+
+int short long: 2 or 4 bytes
+
+signed or unsigned: -ve and +ve : +ve
+
+short: 2 bytes: 2 * 8: 16 bits
+
+16 bits: 2 ^ 16: 65536
+
+unsigned: 0 to 65535
+
+signed: 65536/2: 32768
+
+-1 to -32768
+0 to 32767
+
+-32768 to 32767
+
+const int a = 10;
+
+//a = 20;
+
+
+char: 1 byte
+
+float: 4 bytes
+
+double: 8 bytes
+
+long double: 10 bytes
