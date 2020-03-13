@@ -1,0 +1,98 @@
+		j=5
+	i=5	*****
+		*****
+		*****
+		*****
+		*****
+		
+		12345
+		12345
+		12345
+		12345
+		12345
+		
+		11111
+		22222
+		33333
+		44444
+		55555
+		
+		AAAAA
+		BBBBB
+		CCCCC
+		DDDDD
+		EEEEE
+		
+		aaaaa
+		bbbbb
+		ccccc
+		ddddd
+		eeeee
+		
+		abcde
+		abcde
+		abcde
+		abcde
+		abcde
+		
+		ABCDE
+		ABCDE
+		ABCDE
+		ABCDE
+		ABCDE
+
+		*
+		**
+		***
+		****
+		*****
+		
+		1
+		22
+		333
+		4444
+		55555
+		
+		A
+		BB
+		CCC
+		DDDD
+		EEEEE
+		
+		a
+		bb
+		ccc
+		dddd
+		eeeee
+		
+		A
+		AB
+		ABC
+		ABCD
+		ABCDE
+		
+		a
+		ab
+		abc
+		abcd
+		abcde
+		
+		
+		*****
+		****
+		***
+		**
+		*
+
+
+
+
+		*
+	   ***
+	  *****
+	 *******
+	*********
+	
+	
+	A= 65
+	a= 97
