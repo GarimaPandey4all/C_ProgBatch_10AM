@@ -1,0 +1,14 @@
+int *pnumber; //address variable//indirection
+
+int value; //normal variable
+
+
+int number = 99;
+
+int *pnumber = &number; //&-->address of operator
+
+int *pnumber;
+
+pnumber = &number;
+
+*pnumber = 10; //derefrence operator//indirection operator
