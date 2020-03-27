@@ -1,0 +1,21 @@
+*pnumber = *pnumber +5;
+
+result = *pnumber + 5;
+
+
+int number = 0;
+
+float *pnumber = NULL;
+
+num1 = 2;
+
+num2 = 4;
+
+*pnum = 4;
+
+*pnum + num2= 8
+
+pnumber = &number;
+
+&pnumber = 322546
+
