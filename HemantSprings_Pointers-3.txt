@@ -1,0 +1,38 @@
+
+int value = 10;
+
+const int *pvalue = &value; //pointer to a constant
+
+*pvalue = 20; //error
+
+int number = 30;
+
+pvalue = &number; //Okay
+
+//Constant Pointer
+
+int const* pvalue = &value;
+
+*pvalue = 50; //okay
+
+pvalue = &number; //error- will not changed the address
+
+
+//if you want to make constant both value and address of the pointer
+
+const int const* pvalue = &value;
+
+*pvalue = 60; //error
+
+pvalue = &number; //error
+
+value = 60;//okay
+
+number = 70;//okay
+
+
+//pointer and normal both variables should be constant
+
+const int value = 10;
+
+const int const* pvalue = &value;
